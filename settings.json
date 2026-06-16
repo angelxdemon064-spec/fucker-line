@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yestechnonot-i6BI.aternos.me:43855",
+    "ip": "yestechnonot-i6BI.aternos.me",
     "port": 43855,
     "version": "1.21.11",
     "try-creative": false
